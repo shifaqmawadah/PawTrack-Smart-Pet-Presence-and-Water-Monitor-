@@ -1,0 +1,16 @@
+
+[19-Jun-2025 09:18:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php:27
+Stack trace:
+#0 /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php on line 27
+[19-Jun-2025 09:24:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php:27
+Stack trace:
+#0 /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php on line 27
+[19-Jun-2025 09:28:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'timestamp' in 'field list' in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php:27
+Stack trace:
+#0 /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php(27): mysqli->prepare()
+#1 {main}
+  thrown in /home4/humancmt/public_html/shifaqmawaddah/pawtrack/get_refill_history.php on line 27
