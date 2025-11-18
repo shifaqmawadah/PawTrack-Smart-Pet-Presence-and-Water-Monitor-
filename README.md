@@ -1,0 +1,3 @@
+# PawTrack: Smart Pet Presence and Water Monitor
+PawTrack is an intelligent sensor-enhanced device whose goal is to see that pets are drinking enough water and that pets area is continually observed. It incorporates a Water Sensor to check the level of water in a bowl and a PIR sensor to notify when pets are around. It is a real-time system that informs the owner either via an interface on the user  web, whenever the pet goes near the bowl or when the water level is low.
+Through ESP32 Wi-Fi compatible microcontroller, Paw Track can retrieve the data and send it to the cloud, enabling owners to view the logs of pet presence and water condition wherever they are located. Relay module capable of activating the water or food dispenser.
